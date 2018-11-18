@@ -5,8 +5,10 @@
 * Set up the development environment and create a Dice Roller Android app
 * Navigate the Main Map Anatomy of an Android app
 
-
-
+# 2 - Layouts
+Learn different kinds of views and resources
+Explore arranging elements with the Android Studio's Layout Editor
+Connect views with data through data binding
 
 # 3 - App Navigation
 * Learn how to build apps that contain multiple screens known as destinations
