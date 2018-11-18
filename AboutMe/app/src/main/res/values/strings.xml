@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">AboutMe</string>
+    <string name="name">Martin Zamarski</string>
+    <string name="yellow_star">Yellow star</string>
+    <string name="bio_text">Hi, my name is Martin
+
+        I Love running.
+
+        more text about you more very haha youy oudsa dsadas gfadsa sdafdsa gfasgdasgfa fsdaasd
+        \n fdsafsdagfsda
+        \n \n fasd asf da
+        \n fasd fsda fsda
+        \n af dsaf as f
+        \n fda fsad gfdahasd g
+        \n fsdaf
+        \n da
+        \n sgf
+        \n h
+        \n
+        \n sf
+        \n dsa
+        \n rf
+        \n sda
+        \n\n\n\n
+        \n ghas
+        \n dfsda
+    </string>
+    <string name="what_is_your_nickname">What is your Nickname?</string>
+    <string name="done">Done</string>
+</resources>
